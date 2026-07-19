@@ -1,13 +1,5 @@
 # 🍃 GreenCart E-Commerce Platform
 
-[![.NET Core](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet&logoColor=white&v=2)](https://dotnet.microsoft.com/)
-[![React](https://img.shields.io/badge/React-19.0-20232A?style=flat&logo=react&logoColor=61DAFB&v=2)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=flat&logo=tailwindcss&logoColor=white&v=2)](https://tailwindcss.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white&v=2)](https://www.mysql.com/)
-[![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat&logo=vite&logoColor=white&v=2)](https://vitejs.dev/)
-[![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=flat&logo=jsonwebtokens&logoColor=white&v=2)](https://jwt.io/)
-[![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat&logo=render&logoColor=white&v=2)](https://greencart-civd.onrender.com/)
-
 🌐 **Live Application**: [https://greencart-civd.onrender.com/](https://greencart-civd.onrender.com/)
 
 **GreenCart** (also known as **FreshDrop**) is a modern, high-performance, and feature-rich e-commerce application tailored for grocery shopping and delivery. Built with a robust, enterprise-ready **.NET 8.0 Web API** backend and a high-performance **React 19 + Vite** frontend styled with **Tailwind CSS v4.0**, it features seamless shopping, persistent state management, Cloudinary-based media uploads, and integrated **MyFatoorah** payment gateway processing.
