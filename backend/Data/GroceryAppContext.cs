@@ -28,3 +28,6 @@ public class GroceryAppContext(DbContextOptions<GroceryAppContext> options) : Db
         });
     }
 }
+
+// Email: admin@greencart.com
+// Password: AdminPassword123!

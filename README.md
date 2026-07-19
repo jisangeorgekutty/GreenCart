@@ -6,6 +6,9 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat&logo=vite)](https://vitejs.dev/)
 [![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=flat&logo=json-web-tokens)](https://jwt.io/)
+[![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat&logo=render)](https://greencart-civd.onrender.com/)
+
+🌐 **Live Application**: [https://greencart-civd.onrender.com/](https://greencart-civd.onrender.com/)
 
 **GreenCart** (also known as **FreshDrop**) is a modern, high-performance, and feature-rich e-commerce application tailored for grocery shopping and delivery. Built with a robust, enterprise-ready **.NET 8.0 Web API** backend and a high-performance **React 19 + Vite** frontend styled with **Tailwind CSS v4.0**, it features seamless shopping, persistent state management, Cloudinary-based media uploads, and integrated **MyFatoorah** payment gateway processing.
 
