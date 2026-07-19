@@ -245,6 +245,16 @@ namespace backend.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("8d970b13-fa6c-4861-a083-d9d13db605ff"),
+                            Email = "admin@greencart.com",
+                            Name = "System Admin",
+                            PasswordHash = "AQAAAAIAAYagAAAAEB+wc+7tmTDarzCxlfSNGjaAD5CIxbyZtH3PaLLxEgopuS7nwqRf5VFNl4TjIikdHg==",
+                            Role = "Admin"
+                        });
                 });
 
             modelBuilder.Entity("backend.Entities.CartItem", b =>

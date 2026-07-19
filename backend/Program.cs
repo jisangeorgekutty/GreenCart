@@ -1,9 +1,11 @@
 using System.Net.Http.Headers;
 using System.Text;
 using backend.Data;
+using backend.Entities;
 using backend.Services;
 using CloudinaryDotNet;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 
@@ -134,5 +136,21 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.MapGet("/", () => "Hello World!");
+
+// Database Migration on startup
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<GroceryAppContext>();
+    try
+    {
+        // Automatically apply database migrations on startup (which applies seeded data)
+        context.Database.Migrate();
+        Console.WriteLine("Database migrations applied successfully.");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"An error occurred during database migration: {ex.Message}");
+    }
+}
 
 app.Run();
