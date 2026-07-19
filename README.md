@@ -1,12 +1,12 @@
 # 🍃 GreenCart E-Commerce Platform
 
-[![.NET Core](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
-[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat&logo=react)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)
-[![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat&logo=vite)](https://vitejs.dev/)
-[![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=flat&logo=json-web-tokens)](https://jwt.io/)
-[![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat&logo=render)](https://greencart-civd.onrender.com/)
+[![.NET Core](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![React](https://img.shields.io/badge/React-19.0-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=flat&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat&logo=render&logoColor=white)](https://greencart-civd.onrender.com/)
 
 🌐 **Live Application**: [https://greencart-civd.onrender.com/](https://greencart-civd.onrender.com/)
 
